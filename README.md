@@ -33,7 +33,7 @@ This repository contains the code for the Serrano Restaurant website, a fast-foo
 ### Colour Scheme
 
 The three main colors used for the Serrano Restaurant are:
-- Green: #008C45
+- Yello: #fbaf32
 - White: #F4F9FF
 - Red: #CD212A
 
