@@ -6,20 +6,20 @@ View the live project [here](https://hasibullah.com/serrano_resturant) (it was u
 
 This repository contains the code for the Serrano Restaurant website, a fast-food establishment specializing in Italian pizza and burgers.
 
-![Picture](image_url)
+![Picture](https://hasibullah.com/serrano_resturant/assets/images/sniped.jpg)
 
 ## User Experience (UX)
 
 ### User Stories
 
-**First Time Visitor Goals**
-- As a first-time visitor, I want to easily understand the main purpose of the site and learn more about the restaurant and their food.
-- As a first-time visitor, I want to be able to easily navigate throughout the site to find content, especially food menus and menu items for visitors.
+**First-Time Visitor Goals**
+- As a first-time visitor, I want to easily understand the main purpose of the site and learn more about the restaurant and its food.
+- As a first-time visitor, I want to easily navigate through the site to find content, especially food menus and menu items for visitors.
 - As a first-time visitor, I want to look for the contact facility of the website and their social media links to see their following on social media and determine how trusted and well-known they are.
 
 **Returning Visitor Goals**
 - As a returning visitor, I want to find information about the restaurant.
-- As a returning visitor, I want to use the website to place my orders online, making it more convenient for me to choose my desired menu items, customize my orders, and schedule pickups or deliveries.
+- As a returning visitor, I want to use the website to place my orders online, making it more convenient to choose my desired menu items, customize my orders, and schedule pickups or deliveries.
 - As a returning visitor, I want to use the promotion of the restaurant's loyalty program, highlighting the benefits and enjoyment, such as earning points, receiving exclusive offers or discounts, and enjoying personalized recommendations based on my previous orders.
 - As a returning visitor, I want to be informed about any menu updates, seasonal items, and nutritional information.
 
@@ -32,7 +32,7 @@ This repository contains the code for the Serrano Restaurant website, a fast-foo
 
 ### Colour Scheme
 
-The three main colors used for the Serrano Restaurant are:
+The three primary colors used for the Serrano Restaurant are:
 - Yello: #fbaf32
 - White: #F4F9FF
 - Red: #CD212A
@@ -61,7 +61,7 @@ The large images on the website are designed to be striking and catch the user's
 
 - HTML
 - CSS3
-- NOTE: as it was strictly advices only use of HTML & CSS, But in order to have a better user Experience I have used JS Script, which was coded by me and also copied from other sources or websites. Any external codes or sources which are used in this project have been contributed in this readme file and in code files to their respected authors.
+- NOTE: it was strictly advised only use HTML & CSS, But in order to have a better user Experience I have used JS Script, which was coded by me and also copied from other sources or websites. Any external codes or sources which are used in this project have been contributed in this readme file and in code files to their respective authors.
 
 ### Frameworks, Libraries & Programs Used
 
@@ -100,6 +100,7 @@ Link: [https://hasibullah.com/serrano_resturant](https://hasibullah.com/serrano_
 - Bootstrap: Bootstrap library used throughout the project for responsiveness.
 - [w3layouts](https://w3layouts.com/): Used for web elements.
 - [w3schools](https://www.w3schools.com/): Used for web elements and bug fixing.
+- (http://ami.responsivedesign.is): used for sniping and testing of the website.
 - [CodePen](https://codepen.io/): Used for web elements and bug fixing.
 
 ## Acknowledgments
