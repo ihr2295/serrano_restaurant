@@ -10016,7 +10016,8 @@ header.nav-fixed {
 
 .navbar-nav .show >,
 .navbar-nav .nav-link.show {
-  color: #7C6A6A; }
+  color: #7C6A6A; 
+}
 
 nav ul li {
   display: inline-block; }
@@ -12765,7 +12766,7 @@ h3.title-small span {
   animation: circle-anim ease infinite;
   transform-origin: center;
   transform-box: fill-box;
-  perspective: 0px;
+  perspective: 0.1px;
 }
 
 .circle.c1 {
