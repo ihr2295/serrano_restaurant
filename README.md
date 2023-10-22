@@ -148,7 +148,7 @@ Unpacking objects: 100% (10/10), done.
 
 ### Here is deployed link in case you missed it on top
 
-Link: [https://hasibullah.com/serrano_resturant](https://ihr2295.github.io/serrano_restaurant/src/)
+Link: [github_pages](https://ihr2295.github.io/serrano_restaurant/src/)
 
 ## Credits
 
