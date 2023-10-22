@@ -2,7 +2,7 @@
 
 **1. Project by Hasibullah Rahmani**
 
-View the live project [here](https://hasibullah.com/serrano_resturant) (it was uploaded to my personal hosting).
+View the live project [here](https://ihr2295.github.io/serrano_restaurant/src/).
 
 This repository contains the code for the Serrano Restaurant website, a fast-food establishment specializing in Italian pizza and burgers.
 
@@ -76,23 +76,79 @@ The large images on the website are designed to be striking and catch the user's
 ## Testing
 
 The website was tested on Google Chrome, Internet Explorer, Microsoft Edge, and Safari browsers. It was also viewed on various devices such as desktop screens (3840 x 2160 pixels), laptops, iPhone 14, and Samsung smartphones. Feedback was gathered from friends, family, mentors, and colleagues to identify bugs and improve the user experience.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+- W3C Markup Validator - Screenshots Bellow
+- ![Picture](https://hasibullah.com/screenshots/w3/01.JPG)
+- ![Picture](https://hasibullah.com/screenshots/w3/02.JPG)
+- ![Picture](https://hasibullah.com/screenshots/w3/03.JPG)
+- ![Picture](https://hasibullah.com/screenshots/w3/04.JPG)
+- W3C CSS Validator - Screenshot Bellow
+- ![Picture](https://hasibullah.com/screenshots/w3/05.JPG)
 
 ## Known Bugs
 
 - On some mobile devices, the hero image pushes the screen size beyond other content, resulting in a white gap to the right of the footer and navigation bar.
 - On Microsoft Edge and Internet Explorer browsers, hovering over links in the navbar pushes them upwards.
+- There were multiple errors due to not being Tested in w3 validators, which was fixed after full review.
 
 ## Deployment
 
-### Source Code in GitHub
+## GitHub Pages
 
-To view the Serrano Restaurant website locally, follow these steps:
-1. Clone this repository to your local machine.
-2. Open the index.html file in a web browser.
+The project was deployed to GitHub Pages using the following steps:
 
-### Available Link in my Personal Host
+1. Log in to GitHub and locate the GitHub Repository.
+2. At the top of the Repository (not the top of the page), locate the "Settings" button on the menu. Alternatively, [click here](link-to-GIF) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" section.
+4. Under "Source," click the dropdown called "None" and select "Master Branch."
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now-published site link in the "GitHub Pages" section.
 
-Link: [https://hasibullah.com/serrano_resturant](https://hasibullah.com/serrano_resturant)
+## Forking the GitHub Repository
+
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository. Here are the steps:
+
+1. Log in to GitHub and locate the GitHub Repository.
+2. At the top of the Repository (not the top of the page), just above the "Settings" button on the menu, locate the "Fork" button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+## Making a Local Clone
+
+1. Log in to GitHub and locate the GitHub Repository.
+2. Under the repository name, click "Clone or download."
+3. To clone the repository using HTTPS, under "Clone with HTTPS," copy the link.
+4. Open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type the following command and paste the URL you copied in Step 3:
+<br>
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+<br>
+7. Press Enter. Your local clone will be created.
+<br>
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+ <br>
+Cloning into CI-Clone...
+ <br>
+remote: Counting objects: 10, done.
+ <br>
+remote: Compressing objects: 100% (8/8), done.
+ <br>
+remote: Total 10 (delta 1), reused 10 (delta 1)
+ <br>
+Unpacking objects: 100% (10/10), done.
+
+### Here are more screenshots as per requests:
+- ![Picture](https://hasibullah.com/screenshots/w3/11.jpg)
+- ![Picture](https://hasibullah.com/screenshots/w3/12.jpg)
+- ![Picture](https://hasibullah.com/screenshots/w3/06.JPG)
+- ![Picture](https://hasibullah.com/screenshots/w3/07.JPG)
+- ![Picture](https://hasibullah.com/screenshots/w3/08.JPG)
+- ![Picture](https://hasibullah.com/screenshots/w3/09.JPG)
+- ![Picture](https://hasibullah.com/screenshots/w3/10.JPG)
+
+### Here is deployed link in case you missed it on top
+
+Link: [https://hasibullah.com/serrano_resturant](https://ihr2295.github.io/serrano_restaurant/src/)
 
 ## Credits
 
